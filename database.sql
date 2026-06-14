@@ -14,6 +14,6 @@ CREATE TABLE IF NOT EXISTS buku_tamu (
 
 -- Contoh data dummy (opsional)
 INSERT INTO buku_tamu (nama, instansi, tujuan, tanggal, waktu) VALUES
-('Budi Santoso', 'Dinas Pendidikan Kota', 'Kunjungan dan koordinasi program belajar', '2024-06-01', '09:00:00'),
-('Siti Rahayu', 'Universitas Negeri', 'Observasi metode pembelajaran', '2024-06-02', '10:30:00'),
-('Ahmad Fauzi', 'Komite Sekolah', 'Rapat koordinasi tahunan', '2024-06-03', '13:00:00');
+('Rafi', 'Dinas Pendidikan Kota', 'Koordinasi program beasiswa', '2026-06-13', '09:00:00'),
+('Fadhil', 'SMK Negeri 1 Cimahi', 'Konsultasi kurikulum merdeka', '2026-06-13', '10:30:00'),
+('Mubarok', 'Komite Sekolah', 'Rapat persiapan acara kelulusan', '2026-06-13', '13:00:00');
